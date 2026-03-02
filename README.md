@@ -270,9 +270,11 @@ Capgemini Day Wise Topics Covered Till Date
 ## 28.02.2026
 ### Day 42 (Saturday)
 - Weekly test on Java and SQL
-- 2 coding problems and 20 mcq Movk
+- 2 coding problems and 20 mcq Mock
 - 4 coding problems and 20 mcq final
 
 ## 02.03.2026
 ### Day 43 (Monday)
 - many comment lines addeded on what to do next
+- Task, TaskDAO, TaskDTO, User, UserDAO, UserDTO
+- Updated pom.xml, main.java and created persistence.xml
