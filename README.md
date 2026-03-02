@@ -220,7 +220,7 @@ Capgemini Day Wise Topics Covered Till Date
 ### Day 34 (Thursday)
 - Stream API
 - more on lambda expressions
-- comperator
+- comparator
 - threads started
 
 ## 20.02.2026
