@@ -278,3 +278,17 @@ Capgemini Day Wise Topics Covered Till Date
 - many comment lines addeded on what to do next
 - Task, TaskDAO, TaskDTO, User, UserDAO, UserDTO
 - Updated pom.xml, main.java and created persistence.xml
+- many to many transactions 
+
+## 05.03.2026
+### Day 44 (Thursday)
+- hibernate framework
+- JDBC basics
+- Entity and table mapping and relationship mapping
+- Customer & Customer Details 
+
+## 06.03.2026
+### Day 45 (Friday)
+- Started DevOps
+- Waterfall Model, Agile Model, DevOps
+- 
