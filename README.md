@@ -296,4 +296,5 @@ Capgemini Day Wise Topics Covered Till Date
 ### Day 46 (Saturday)
 - GenAI Online Class (Theory Class)
 - Version Control System (Theory)
-- Git | Github (Theory)
+- Git | Github (Theory+Practical)
+- Weekly Assesment
