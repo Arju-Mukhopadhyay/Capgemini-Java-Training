@@ -293,7 +293,7 @@ Capgemini Day Wise Topics Covered Till Date
 - Waterfall Model, Agile Model, DevOps (Theory)
 
 ## 07.03.2026
-### Day 45 (Saturday)
+### Day 46 (Saturday)
 - GenAI Online Class (Theory Class)
 - Version Control System (Theory)
 - Git | Github (Theory)
