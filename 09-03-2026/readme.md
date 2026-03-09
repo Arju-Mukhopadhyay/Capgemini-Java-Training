@@ -121,3 +121,5 @@ Steps:
 2. Configure **Project2** to trigger **Project3**
 
 This creates a **simple CI/CD pipeline using Jenkins**.
+**Refer to the repos PipeLineRepo1, PipeLineRepo2, PipeLineRepo3 for File Details.
+To Visit and use Jenkins in any browser write localhost:8080**
