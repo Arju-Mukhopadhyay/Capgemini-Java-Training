@@ -301,4 +301,7 @@ Capgemini Day Wise Topics Covered Till Date
 
 ## 09.03.2026
 ### Day 47 (Monday)
-- 
+- Jenkins Tutorial
+- CI/CD
+- Made Projects and understood the CI/CD Pipeline 
+- Deployed and Build the Projects in Jenkins
