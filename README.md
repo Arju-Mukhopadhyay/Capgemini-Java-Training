@@ -305,3 +305,7 @@ Capgemini Day Wise Topics Covered Till Date
 - CI/CD
 - Made Projects and understood the CI/CD Pipeline 
 - Deployed and Build the Projects in Jenkins
+
+## 10.03.2026
+### Day 48 (Tuesday)
+- English and Soft Skills
