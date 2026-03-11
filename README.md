@@ -309,3 +309,10 @@ Capgemini Day Wise Topics Covered Till Date
 ## 10.03.2026
 ### Day 48 (Tuesday)
 - English and Soft Skills
+
+## 11.03.2026
+### Day 49 (Wednesday)
+- Spring (Theory)
+- Spring Modules and Spring Architecture
+- Spring Configurations
+- Writing Hands on Code for Practice
