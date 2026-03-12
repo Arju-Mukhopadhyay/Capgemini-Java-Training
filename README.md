@@ -316,3 +316,14 @@ Capgemini Day Wise Topics Covered Till Date
 - Spring Modules and Spring Architecture
 - Spring Configurations
 - Writing Hands on Code for Practice
+
+## 12.03.2026
+### Day 50 (Thursday)
+- SpringBoot (Theory)
+- Annotations, Constructor Injection, Setter Injection in SpringBoot
+- SpringBoot Practice - Basics
+- Installation of Apache Tomcat server , Postman
+
+## 13.03.2026
+### Day 51 (Friday)
+- 
