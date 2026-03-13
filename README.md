@@ -451,4 +451,9 @@ The repository tracks the **daily learning progress, coding practice, and concep
 
 ## 📅 Date 13.03.2026
 ### Day 51 (Friday)
--
+- Spring MVC Architecture
+- Get & Post Method
+- Servlet Life Cycle
+- Servlet Project Configuration
+- Spring Boot Project Configuration
+- Login page using Servlet
