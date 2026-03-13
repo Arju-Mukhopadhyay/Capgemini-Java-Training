@@ -462,4 +462,6 @@ The repository tracks the **daily learning progress, coding practice, and concep
 
 ## 📅 Date 14.03.2026
 ### Day 52 (Saturday)
-- 
+ - M1 Re-Assessment
+ - Practice Session for Spring Boot
+ - Weekly Assessment
