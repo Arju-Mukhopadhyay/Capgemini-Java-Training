@@ -1,6 +1,9 @@
 # 📘 Capgemini-Java-Training
 
-Capgemini Day Wise Topics Covered Till Date
+This repository documents the **day-wise topics, syllabus, and practical activities** covered during the **Capgemini Java Foundation Training Program**.  
+The training follows the **IEM–UEM Java Foundation curriculum** and includes concepts from **Programming with Java, Data Structures & Algorithms (DSA), SQL, Testing, DevOps, and Spring Boot**.
+
+The repository tracks the **daily learning progress, coding practice, and concepts covered during the training period from January–March 2026**.
 
 ---
 
