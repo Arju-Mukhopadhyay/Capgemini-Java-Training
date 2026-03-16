@@ -466,3 +466,10 @@ The repository tracks the **daily learning progress, coding practice, and concep
  - Practice Session for Spring Boot
  - Weekly Assessment
  - Spring MVC Project
+
+---
+
+## 📅 Date 16.03.2026
+### Day 53 (Monday)
+ - Database CRUD Application Using Spring MVC and Servlets
+ - Implemented Login , Register User, Forget Password in my application using the Database
