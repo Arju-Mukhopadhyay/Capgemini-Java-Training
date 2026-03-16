@@ -474,7 +474,10 @@ The repository tracks the **daily learning progress, coding practice, and concep
  - Database CRUD Application Using Spring MVC and Servlets
  - Implemented Login , Register User, Forget Password in my application using MySql
 
-### 📅  17.03.2026 -- Day 54
+---
+
+## 📅 Date 17.03.2026
+### Day 54 (Tuesday)
  -
  -
 
