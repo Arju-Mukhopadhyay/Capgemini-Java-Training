@@ -451,34 +451,59 @@ The repository tracks the **daily learning progress, coding practice, and concep
 
 ## 📅 Date 13.03.2026
 ### Day 51 (Friday)
-- Spring MVC Architecture
-- Get & Post Method
-- Servlet Life Cycle
-- Servlet Project Configuration
-- Spring Boot Project Configuration
-- Login page using Servlet
+ - Spring MVC Architecture
+ - Get & Post Method
+ - Servlet Life Cycle
+ - Servlet Project Configuration
+ - Spring Boot Project Configuration
+ - Login page using Servlet
+ - Project name -> "UEMSpringbootMVC"
 
 ---
 
 ## 📅 Date 14.03.2026
 ### Day 52 (Saturday)
- - M1 Re-Assessment
- - Practice Session for Spring Boot
+- HackerRank M1 Re-Test
+ - Revisited Spring Framework architecture concepts
  - Weekly Assessment
- - Spring MVC Project
+ - Worked on Spring MVC project (path redirection)
+ - Project name -> "UEMSpringbootMVC" Initial setup and planning of this project
 
 ---
 
 ## 📅 Date 16.03.2026
 ### Day 53 (Monday)
- - Database CRUD Application Using Spring MVC and Servlets
- - Implemented Login , Register User, Forget Password in my application using MySql
+ - Built CRUD application using Spring MVC and Servlets
+ - Implemented Login, Register, and Forgot Password features with MySQL
+ - Integrated backend with database for user management
+ - Project name -> "UEMSpringbootMVC"
 
 ---
 
 ## 📅 Date 17.03.2026
 ### Day 54 (Tuesday)
- -
- -
+ - Created proper project structure using packages (Controller, Service, Repository)
+ - Implemented Employee modules: Add, View, Edit
+ - Fetched data from database and displayed on JSP pages
+ - Connected frontend forms with backend using Spring MVC
+ - Project name -> "UEMSpringbootMVC"
+ - Project name -> "UEMSpringbootMVC"
 
  ---
+
+## 📅 Date 18.03.2026
+### Day 55 (Wednesday)
+
+  -
+  -
+  -
+
+  ---
+
+## 📅 Date 19.03.2026
+### Day 56 (Thursday)
+-
+-
+-
+
+---
