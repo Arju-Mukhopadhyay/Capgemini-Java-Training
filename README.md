@@ -487,7 +487,6 @@ The repository tracks the **daily learning progress, coding practice, and concep
  - Fetched data from database and displayed on JSP pages
  - Connected frontend forms with backend using Spring MVC
  - Project name -> "UEMSpringbootMVC"
- - Project name -> "UEMSpringbootMVC"
 
  ---
 
