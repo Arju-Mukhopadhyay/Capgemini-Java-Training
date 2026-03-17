@@ -1,0 +1,14 @@
+git config --global user.name "Arju-Mukhopadhyay"
+git config --global user.email "arju@gmail.com"
+git config --list
+git init
+git add .   Or we can use git add --all
+git commit -m "1st Commit"
+git remote add https://github.com/Arju-Mukhopadhyay/VersionControlPractice.git
+git remote add origin https://github.com/Arju-Mukhopadhyay/VersionControlPractice.git
+git push -u origin master
+git status
+git add .   or git add "filename.java"
+git commit -m "Updated the code"
+git push
+git pull      git pull downloads the latest changes from GitHub to your local repository.
