@@ -499,8 +499,10 @@ The repository tracks the **daily learning progress, coding practice, and concep
 
 ## 📅 Date 19.03.2026
 ### Day 56 (Thursday)
--
--
--
+- Implement REST API
+- Perform GET, POST, DELETE, PUT
+- Use POSTMAN
+- Project name -> "UEMSpringbootMVC"
+- Completed this Project
 
 ---
