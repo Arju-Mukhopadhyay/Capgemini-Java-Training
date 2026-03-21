@@ -505,4 +505,17 @@ The repository tracks the **daily learning progress, coding practice, and concep
 - Project name -> "UEMSpringbootMVC"
 - Completed this Project
 
----
+  ---
+
+## 📅 Date 21.03.2026
+### Day 57 (Saturday)
+- Complete J2Career Project
+- A full-stack Job Portal built using Spring Boot, JSP, and MySQL
+- Supports Employer and Job Seeker roles with job posting, search, and application features
+- Implements One-to-Many and Many-to-Many relationships using JPA/Hibernate.
+- Includes secure login, CRUD operations, and real-time application tracking
+  
+  ---
+
+## 📅 Date 23.03.2026
+### Day 58 (Monday)
